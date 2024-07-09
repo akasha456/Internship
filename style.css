@@ -1,0 +1,22 @@
+p{
+    color:brown;
+    background-color:beige ;
+}
+
+a,u{
+    color:aquamarine;
+    text-decoration: none;
+
+}
+
+#fg{
+    color:yellow;
+}
+
+th{
+    color:red;
+}
+
+table{
+    width:100%
+}
